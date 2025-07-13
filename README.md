@@ -4,7 +4,7 @@
 markdown
 Copy
 Edit
-# 🌟 Keerthana V | Portfolio + Mini E-Commerce Site
+# 🌟 Anusha P| Portfolio + Mini E-Commerce Site
 
 Welcome to my personal portfolio and interactive project site! This project highlights my web development skills using HTML, CSS, and JavaScript, with some fun features like a cart system, light/dark mode, contact form, and comment section.
 
@@ -108,7 +108,7 @@ Email:anusha03012005@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/anusha-p-379343348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-GitHub: 
+GitHub: https://github.com/anushapalraj
 
 ---
 
